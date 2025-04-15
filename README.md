@@ -1,5 +1,5 @@
 
-<b>Hi, I'm **Krushna Mengal!**<b> <br>I'm a passionate web developer and a diploma student in Computer Technology. As a fresher in the tech world, I love building creative and efficient web solutions. I’m also a 1st-level hackathon winner, always eager to tackle challenges and innovate. My journey is just beginning, but I'm driven to learn, grow, and contribute to the digital landscape. <br>Let's create something amazing together!
+<b>Hi, I'm #Krushna Mengal!<b> <br>I'm a passionate web developer and a diploma student in Computer Technology. As a fresher in the tech world, I love building creative and efficient web solutions. I’m also a 1st-level hackathon winner, always eager to tackle challenges and innovate. My journey is just beginning, but I'm driven to learn, grow, and contribute to the digital landscape. <br>Let's create something amazing together!
 
 
 ## 🌐 Socials :
@@ -24,6 +24,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=krushna001m&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=krushna001m&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
