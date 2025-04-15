@@ -1,5 +1,5 @@
-## 👩‍💻 About Me :
-<b>Hi, I'm Krushna Mengal!<b> <br>I'm a passionate web developer and a diploma student in Computer Technology. As a fresher in the tech world, I love building creative and efficient web solutions. I’m also a 1st-level hackathon winner, always eager to tackle challenges and innovate. My journey is just beginning, but I'm driven to learn, grow, and contribute to the digital landscape. <br>Let's create something amazing together!
+
+<b>Hi, I'm **Krushna Mengal!**<b> <br>I'm a passionate web developer and a diploma student in Computer Technology. As a fresher in the tech world, I love building creative and efficient web solutions. I’m also a 1st-level hackathon winner, always eager to tackle challenges and innovate. My journey is just beginning, but I'm driven to learn, grow, and contribute to the digital landscape. <br>Let's create something amazing together!
 
 
 ## 🌐 Socials :
