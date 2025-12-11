@@ -18,7 +18,6 @@ My journey in technology has just begun, but I’m highly motivated to **learn, 
 - 🔥 Hands-on experience with **Firebase (Auth, Realtime DB, Firestore, Storage)**
 - 🗄️ Working knowledge of **MongoDB** for backend data storage
 - 🌐 Strong foundation in **HTML, CSS, JavaScript**
-- 🤖 Exploring **AI APIs (OpenAI, Gemini, SambaNova, Groq)**
 - 🧠 Believe in *learning by building real-world projects*
 - 🤝 Open to internships, freelance work, and collaborations
 
