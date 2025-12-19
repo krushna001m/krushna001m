@@ -29,7 +29,7 @@ My journey in technology has just begun, but I’m highly motivated to **learn, 
 - 🔥 **Firebase** (Auth, Realtime Database, Firestore, Storage)
 - 🍃 **MongoDB** with Node.js
 - ⚛️ Advanced **React Native**
-- 🌍 Backend basics with **Node.js & REST APIs**
+- 🌍 Backend with **Node.js & REST APIs**
 - 🎨 UI/UX design with **Figma**
 
 ---
