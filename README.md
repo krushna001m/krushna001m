@@ -13,24 +13,12 @@ My journey in technology has just begun, but I’m highly motivated to **learn, 
 ## 👨‍💻 About Me
 
 - 🎓 Diploma student in **Computer Technology**
-- 💡 Interested in **Web Development, Mobile App Development & Generative AI**
+- 💡 Interested in **Web Development & Mobile App Development**
 - 📱 Experienced with **React Native (CLI)** for Android & iOS apps
 - 🔥 Hands-on experience with **Firebase (Auth, Realtime DB, Firestore, Storage)**
-- 🗄️ Working knowledge of **MongoDB** for backend data storage
 - 🌐 Strong foundation in **HTML, CSS, JavaScript**
 - 🧠 Believe in *learning by building real-world projects*
 - 🤝 Open to internships, freelance work, and collaborations
-
----
-
-## 🌱 Currently Learning
-
-- 🤖 **Generative AI & LLM APIs**
-- 🔥 **Firebase** (Auth, Realtime Database, Firestore, Storage)
-- 🍃 **MongoDB** with Node.js
-- ⚛️ Advanced **React Native**
-- 🌍 Backend with **Node.js & REST APIs**
-- 🎨 UI/UX design with **Figma**
 
 ---
 
