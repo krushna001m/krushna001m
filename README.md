@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Krushna Mengal!
 
-I'm a **passionate Web Developer & React Native App Developer**, currently pursuing a **Diploma in Computer Technology**.  
+I'm a **passionate Web Developer & React Native App Developer**, currently pursuing a **B. Tech in Computer Science and Engineering**.  
 As a **fresher in the tech world**, I enjoy building **creative, user-friendly, and efficient digital solutions** that solve real-world problems.
 
 🏆 **1st-level Hackathon Winner**  
@@ -12,7 +12,7 @@ My journey in technology has just begun, but I’m highly motivated to **learn, 
 
 ## 👨‍💻 About Me
 
-- 🎓 Diploma student in **Computer Technology**
+- 🎓 B.Tech student in **Computer Science and Engineering**
 - 💡 Interested in **Web Development & Mobile App Development**
 - 📱 Experienced with **React Native (CLI)** for Android & iOS apps
 - 🔥 Hands-on experience with **Firebase (Auth, Realtime DB, Firestore, Storage)**
